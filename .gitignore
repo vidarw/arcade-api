@@ -61,7 +61,7 @@ typings/
 .next
 
 # SSL certificates
-.pem
-.crt
-.pfx
+*.pem
+*.crt
+*.pfx
 
